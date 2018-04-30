@@ -1,0 +1,41 @@
+body {
+    background-image: url("cavebackground.jpg");
+}
+
+header {
+    text-align: center;
+    font-size: 80px;
+    color: white;
+    padding: 50px;
+}
+
+.container {
+    color: white;
+}
+
+.instructions {
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.crystals {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.gem1 {
+    padding: 50px;
+}
+
+.gem2 {
+    padding: 50px;
+}
+
+.gem3 {
+    padding: 50px;
+}
+
+.gem4 {
+    padding: 50px;
+}
