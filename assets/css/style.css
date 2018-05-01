@@ -4,9 +4,13 @@ body {
 
 header {
     text-align: center;
-    font-size: 80px;
+    font-size: 50px;
     color: white;
-    padding: 50px;
+    padding: 15px;
+}
+
+h1 {
+    background: darkblue;
 }
 
 .container {
@@ -24,18 +28,10 @@ header {
     margin-top: 50px;
 }
 
-.gem1 {
-    padding: 50px;
+p {
+    font-size: 18px;
 }
 
-.gem2 {
-    padding: 50px;
-}
-
-.gem3 {
-    padding: 50px;
-}
-
-.gem4 {
-    padding: 50px;
+.top-buffer {
+    margin-top: 30px;
 }
