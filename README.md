@@ -1,1 +1,2 @@
-# unit-4-game
+# Crystal-Collector
+This game uses Javascript and jQuery to test your problem-solving skills.  When the game begins each crystal is assigned a random value, and a random target number is selected.  Click on the crystals and try to get the total score to equal the target number.  If you go over the target score you lose and the crystals are assigned a new random value at the start of the next game.  Good luck!
